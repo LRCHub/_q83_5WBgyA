@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "さくらガール",
+  "base_artist": "NEWS",
+  "createdAt": "2026-02-20T18:18:31.659897Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "さくらガール",
+      "artist": "NEWS",
+      "has_synced": false,
+      "path": "select/01_さくらガール_NEWS.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "さくらガール  (20thDome LIVE Ver.)",
+      "artist": "NEWS",
+      "has_synced": false,
+      "path": "select/02_さくらガール_(20thDome_LIVE_Ver.)_NEWS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さくらガール",
+      "artist": "NEWS",
+      "has_synced": false,
+      "path": "select/pl_01_さくらガール_NEWS.txt"
+    }
+  ]
+}
